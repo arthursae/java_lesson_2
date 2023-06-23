@@ -14,7 +14,7 @@ import java.util.Set;
 
 public class task1 {
     public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new FileReader("src/main/java/task1/data.json"));
+        BufferedReader br = new BufferedReader(new FileReader("t1_data.json"));
         String str;
         StringBuilder content = new StringBuilder();
 
