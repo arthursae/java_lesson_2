@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-06-23T15:44:14.180806Z</date>
+  <millis>1687535054180</millis>
+  <nanos>806000</nanos>
+  <sequence>0</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Тестовое логирование</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.208046Z</date>
+  <millis>1687535054208</millis>
+  <nanos>46000</nanos>
+  <sequence>1</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.208431Z</date>
+  <millis>1687535054208</millis>
+  <nanos>431000</nanos>
+  <sequence>2</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.208711Z</date>
+  <millis>1687535054208</millis>
+  <nanos>711000</nanos>
+  <sequence>3</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.209023Z</date>
+  <millis>1687535054209</millis>
+  <nanos>23000</nanos>
+  <sequence>4</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-4</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.209355Z</date>
+  <millis>1687535054209</millis>
+  <nanos>355000</nanos>
+  <sequence>5</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-5</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.209649Z</date>
+  <millis>1687535054209</millis>
+  <nanos>649000</nanos>
+  <sequence>6</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-6</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.209916Z</date>
+  <millis>1687535054209</millis>
+  <nanos>916000</nanos>
+  <sequence>7</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-7</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.210140Z</date>
+  <millis>1687535054210</millis>
+  <nanos>140000</nanos>
+  <sequence>8</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 0-8</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.210443Z</date>
+  <millis>1687535054210</millis>
+  <nanos>443000</nanos>
+  <sequence>9</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.210772Z</date>
+  <millis>1687535054210</millis>
+  <nanos>772000</nanos>
+  <sequence>10</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.210982Z</date>
+  <millis>1687535054210</millis>
+  <nanos>982000</nanos>
+  <sequence>11</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.211204Z</date>
+  <millis>1687535054211</millis>
+  <nanos>204000</nanos>
+  <sequence>12</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-4</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.211446Z</date>
+  <millis>1687535054211</millis>
+  <nanos>446000</nanos>
+  <sequence>13</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-5</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.211646Z</date>
+  <millis>1687535054211</millis>
+  <nanos>646000</nanos>
+  <sequence>14</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-6</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.211885Z</date>
+  <millis>1687535054211</millis>
+  <nanos>885000</nanos>
+  <sequence>15</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 1-7</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.212122Z</date>
+  <millis>1687535054212</millis>
+  <nanos>122000</nanos>
+  <sequence>16</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.212315Z</date>
+  <millis>1687535054212</millis>
+  <nanos>315000</nanos>
+  <sequence>17</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.212515Z</date>
+  <millis>1687535054212</millis>
+  <nanos>515000</nanos>
+  <sequence>18</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.212697Z</date>
+  <millis>1687535054212</millis>
+  <nanos>697000</nanos>
+  <sequence>19</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-4</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.212868Z</date>
+  <millis>1687535054212</millis>
+  <nanos>868000</nanos>
+  <sequence>20</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-5</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213051Z</date>
+  <millis>1687535054213</millis>
+  <nanos>51000</nanos>
+  <sequence>21</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 2-6</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213230Z</date>
+  <millis>1687535054213</millis>
+  <nanos>230000</nanos>
+  <sequence>22</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213400Z</date>
+  <millis>1687535054213</millis>
+  <nanos>400000</nanos>
+  <sequence>23</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213590Z</date>
+  <millis>1687535054213</millis>
+  <nanos>590000</nanos>
+  <sequence>24</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213747Z</date>
+  <millis>1687535054213</millis>
+  <nanos>747000</nanos>
+  <sequence>25</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3-4</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.213942Z</date>
+  <millis>1687535054213</millis>
+  <nanos>942000</nanos>
+  <sequence>26</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 3-5</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.214111Z</date>
+  <millis>1687535054214</millis>
+  <nanos>111000</nanos>
+  <sequence>27</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 4-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.214322Z</date>
+  <millis>1687535054214</millis>
+  <nanos>322000</nanos>
+  <sequence>28</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 4-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.214485Z</date>
+  <millis>1687535054214</millis>
+  <nanos>485000</nanos>
+  <sequence>29</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 4-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.214758Z</date>
+  <millis>1687535054214</millis>
+  <nanos>758000</nanos>
+  <sequence>30</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 4-4</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.214932Z</date>
+  <millis>1687535054214</millis>
+  <nanos>932000</nanos>
+  <sequence>31</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 5-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.215130Z</date>
+  <millis>1687535054215</millis>
+  <nanos>130000</nanos>
+  <sequence>32</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 5-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.215295Z</date>
+  <millis>1687535054215</millis>
+  <nanos>295000</nanos>
+  <sequence>33</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 5-3</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.215444Z</date>
+  <millis>1687535054215</millis>
+  <nanos>444000</nanos>
+  <sequence>34</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 6-1</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.215607Z</date>
+  <millis>1687535054215</millis>
+  <nanos>607000</nanos>
+  <sequence>35</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 6-2</message>
+</record>
+<record>
+  <date>2023-06-23T15:44:14.215761Z</date>
+  <millis>1687535054215</millis>
+  <nanos>761000</nanos>
+  <sequence>36</sequence>
+  <logger>task2.task2</logger>
+  <level>INFO</level>
+  <class>task2.task2</class>
+  <method>bubbleSort</method>
+  <thread>1</thread>
+  <message>Итерация 7-1</message>
+</record>
+</log>
